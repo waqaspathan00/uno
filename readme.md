@@ -11,7 +11,20 @@ It also introduces you to some intermediate topics as well:
 - console delay and output
 
 # Images
+### Program load, game starts
+![](img/gamestart.png)
 
+### Player 1 makes their move
+![](img/p1move.png)
+
+### Player 2 turn after player 1, note the change in card in play
+![](img/p2Ap1.png)
+
+### Example of drawing a card
+![](img/p1draw.png)
+
+### Example of winning the game
+![](img/p2wins.png)
 
 
 # Libraries
